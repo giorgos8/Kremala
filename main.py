@@ -1,1 +1,1 @@
-print('Start Kremala')
+print('Start Kremala!')
